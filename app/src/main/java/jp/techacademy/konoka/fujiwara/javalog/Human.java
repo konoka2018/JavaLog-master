@@ -15,6 +15,8 @@ public class Human extends Animal{//implements Thinkable{
         Log.d("javatest", "私の名前は"  + this.name + "です。年は" + this.age + "歳です。");
     }
 
+
+    // wakaranai
     //@Override
     //public void Think() {
         //Log.d("javatest", "私は"  + this.name + "について考える");
