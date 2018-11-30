@@ -13,10 +13,9 @@ public class MainActivity extends AppCompatActivity {
 
         Human Human = new Human("konoka",28);
         Human.say();
-        //Log.d("javatest", "私の名前は"  + Human.name + "です。年は" +  Human.age + "歳" + "です。");
 
-
+        Human hobby = new Human("プログラミンング");
+        Human.think();
     }
 }
-
 
